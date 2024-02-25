@@ -1,4 +1,4 @@
-package Encapsulation;
+package ClassWork.Oops.Encapsulation;
 
 class Player {
     // Private fields encapsulated

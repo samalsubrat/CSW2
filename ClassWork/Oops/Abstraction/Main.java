@@ -1,4 +1,4 @@
-package Abstraction;
+package ClassWork.Oops.Abstraction;
 
 abstract class Shape {
     // Abstract method
