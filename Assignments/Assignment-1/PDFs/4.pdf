@@ -1,0 +1,1013 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 739.2000000000011823 448.]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 9898
+>>
+stream
+0.200025 w
+0 G
+0.1 0.11 0.13 rg
+0. 448. 739.2000000000011823 -448. re
+f
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+0.325 0.573 0.859 rg
+0. 434. Td
+(class) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+1. g
+42. 434. Td
+( Laptop {) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+1. g
+0. 420. Td
+(    ) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+0.325 0.573 0.859 rg
+33.6000000000000014 420. Td
+(private) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+1. g
+92.3999999999999773 420. Td
+( ) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+0.91 0.325 0.384 rg
+100.7999999999999829 420. Td
+(String) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+1. g
+151.1999999999999602 420. Td
+( model;) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+1. g
+0. 406. Td
+(    ) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+0.325 0.573 0.859 rg
+33.6000000000000014 406. Td
+(private) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+1. g
+92.3999999999999773 406. Td
+( ) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+0.91 0.325 0.384 rg
+100.7999999999999829 406. Td
+(double) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+1. g
+151.1999999999999602 406. Td
+( price;) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+1. g
+0. 378. Td
+(    ) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+0.325 0.573 0.859 rg
+33.6000000000000014 378. Td
+(public) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+1. g
+83.9999999999999858 378. Td
+( ) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+0.91 0.325 0.384 rg
+92.3999999999999773 378. Td
+(void) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+1. g
+125.9999999999999716 378. Td
+( ) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+0.325 0.573 0.859 rg
+134.3999999999999773 378. Td
+(setModel) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+1. g
+201.5999999999999375 378. Td
+(\() Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+0.91 0.325 0.384 rg
+209.9999999999999147 378. Td
+(String) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+1. g
+260.4000000000000341 378. Td
+( model\) {) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+1. g
+0. 364. Td
+(        this.model ) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+0.91 0.325 0.384 rg
+159.5999999999999659 364. Td
+(=) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+1. g
+167.9999999999999432 364. Td
+( model;) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+1. g
+0. 350. Td
+(    }) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+1. g
+0. 322. Td
+(    ) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+0.325 0.573 0.859 rg
+33.6000000000000014 322. Td
+(public) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+1. g
+83.9999999999999858 322. Td
+( ) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+0.91 0.325 0.384 rg
+92.3999999999999773 322. Td
+(void) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+1. g
+125.9999999999999716 322. Td
+( ) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+0.325 0.573 0.859 rg
+134.3999999999999773 322. Td
+(setPrice) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+1. g
+201.5999999999999375 322. Td
+(\() Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+0.91 0.325 0.384 rg
+209.9999999999999147 322. Td
+(double) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+1. g
+260.4000000000000341 322. Td
+( price\) {) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+1. g
+0. 308. Td
+(        this.price ) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+0.91 0.325 0.384 rg
+159.5999999999999659 308. Td
+(=) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+1. g
+167.9999999999999432 308. Td
+( price;) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+1. g
+0. 294. Td
+(    }) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+1. g
+0. 266. Td
+(    @) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+0.91 0.325 0.384 rg
+42. 266. Td
+(Override) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+1. g
+0. 252. Td
+(    ) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+0.325 0.573 0.859 rg
+33.6000000000000014 252. Td
+(public) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+1. g
+83.9999999999999858 252. Td
+( ) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+0.91 0.325 0.384 rg
+92.3999999999999773 252. Td
+(String) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+1. g
+142.7999999999999545 252. Td
+( ) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+0.325 0.573 0.859 rg
+151.1999999999999602 252. Td
+(toString) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+1. g
+218.3999999999999204 252. Td
+(\(\) {) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+1. g
+0. 238. Td
+(        ) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+0.91 0.325 0.384 rg
+67.2000000000000028 238. Td
+(return) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+1. g
+117.5999999999999801 238. Td
+( ) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+0.624 0.741 0.878 rg
+125.9999999999999716 238. Td
+("Laptop Model: ") Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+1. g
+260.4000000000000341 238. Td
+( ) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+0.91 0.325 0.384 rg
+268.8000000000000682 238. Td
+(+) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+1. g
+277.2000000000000455 238. Td
+( model ) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+0.91 0.325 0.384 rg
+336.0000000000002274 238. Td
+(+) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+1. g
+344.4000000000002046 238. Td
+( ) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+0.624 0.741 0.878 rg
+352.8000000000002387 238. Td
+(", Price: $") Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+1. g
+453.6000000000004775 238. Td
+( ) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+0.91 0.325 0.384 rg
+462.0000000000005116 238. Td
+(+) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+1. g
+470.4000000000005457 238. Td
+( price;) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+1. g
+0. 224. Td
+(    }) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+1. g
+0. 210. Td
+(}) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+0.325 0.573 0.859 rg
+0. 182. Td
+(public) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+1. g
+50.3999999999999986 182. Td
+( ) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+0.325 0.573 0.859 rg
+58.8000000000000043 182. Td
+(class) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+1. g
+100.7999999999999829 182. Td
+( laptopMain {) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+1. g
+0. 168. Td
+(    ) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+0.325 0.573 0.859 rg
+33.6000000000000014 168. Td
+(public) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+1. g
+83.9999999999999858 168. Td
+( ) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+0.325 0.573 0.859 rg
+92.3999999999999773 168. Td
+(static) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+1. g
+142.7999999999999545 168. Td
+( ) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+0.91 0.325 0.384 rg
+151.1999999999999602 168. Td
+(void) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+1. g
+184.7999999999999545 168. Td
+( ) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+0.325 0.573 0.859 rg
+193.1999999999999318 168. Td
+(main) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+1. g
+226.7999999999999545 168. Td
+(\() Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+0.91 0.325 0.384 rg
+235.1999999999999602 168. Td
+(String) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+1. g
+285.6000000000000796 168. Td
+([] args\) {) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+1. g
+0. 154. Td
+(        ) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+0.91 0.325 0.384 rg
+67.2000000000000028 154. Td
+(Laptop) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+1. g
+117.5999999999999801 154. Td
+( laptop ) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+0.91 0.325 0.384 rg
+184.7999999999999545 154. Td
+(=) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+1. g
+193.1999999999999318 154. Td
+( ) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+0.91 0.325 0.384 rg
+201.5999999999999375 154. Td
+(new) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+1. g
+226.7999999999999545 154. Td
+( ) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+0.325 0.573 0.859 rg
+235.1999999999999602 154. Td
+(Laptop) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+1. g
+285.6000000000000796 154. Td
+(\(\);) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+1. g
+0. 140. Td
+(        ) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+0.443 0.518 0.576 rg
+67.2000000000000028 140. Td
+(//The toString\(\) method in the Laptop class returns a string representation ) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+1. g
+0. 126. Td
+(        ) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+0.443 0.518 0.576 rg
+67.2000000000000028 126. Td
+(//of its model and price. In the Main class, invoking toString\(\) on the laptop ) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+1. g
+0. 112. Td
+(        ) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+0.443 0.518 0.576 rg
+67.2000000000000028 112. Td
+(//object automatically utilizes the overridden method to print concise details, ) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+1. g
+0. 98. Td
+(        ) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+0.443 0.518 0.576 rg
+67.2000000000000028 98. Td
+(//eliminating the need for explicit getter calls.) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+1. g
+0. 84. Td
+(        laptop.) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+0.325 0.573 0.859 rg
+125.9999999999999716 84. Td
+(setModel) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+1. g
+193.1999999999999318 84. Td
+(\() Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+0.624 0.741 0.878 rg
+201.5999999999999375 84. Td
+("Framework 16") Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+1. g
+319.2000000000001592 84. Td
+(\);) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+1. g
+0. 70. Td
+(        laptop.) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+0.325 0.573 0.859 rg
+125.9999999999999716 70. Td
+(setPrice) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+1. g
+193.1999999999999318 70. Td
+(\() Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+0.624 0.741 0.878 rg
+201.5999999999999375 70. Td
+(5000) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+1. g
+235.1999999999999602 70. Td
+(\);) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+1. g
+0. 56. Td
+(        System.out.) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+0.325 0.573 0.859 rg
+159.5999999999999659 56. Td
+(println) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+1. g
+218.3999999999999204 56. Td
+(\(laptop.) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+0.325 0.573 0.859 rg
+285.6000000000000796 56. Td
+(toString) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+1. g
+352.8000000000002387 56. Td
+(\(\)\);) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+1. g
+0. 42. Td
+(    }) Tj
+ET
+BT
+/F5 14 Tf
+16.0999999999999979 TL
+1. g
+0. 28. Td
+(}) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R ]
+/Count 1
+>>
+endobj
+5 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+6 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+7 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 5 0 R
+/F2 6 0 R
+/F3 7 0 R
+/F4 8 0 R
+/F5 9 0 R
+/F6 10 0 R
+/F7 11 0 R
+/F8 12 0 R
+/F9 13 0 R
+/F10 14 0 R
+/F11 15 0 R
+/F12 16 0 R
+/F13 17 0 R
+/F14 18 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+19 0 obj
+<<
+/Producer (jsPDF 2.5.1)
+/CreationDate (D:20240228211240+05'30')
+>>
+endobj
+20 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 21
+0000000000 65535 f 
+0000010086 00000 n 
+0000011903 00000 n 
+0000000015 00000 n 
+0000000136 00000 n 
+0000010143 00000 n 
+0000010268 00000 n 
+0000010398 00000 n 
+0000010531 00000 n 
+0000010668 00000 n 
+0000010791 00000 n 
+0000010920 00000 n 
+0000011052 00000 n 
+0000011188 00000 n 
+0000011316 00000 n 
+0000011443 00000 n 
+0000011572 00000 n 
+0000011705 00000 n 
+0000011807 00000 n 
+0000012151 00000 n 
+0000012237 00000 n 
+trailer
+<<
+/Size 21
+/Root 20 0 R
+/Info 19 0 R
+/ID [ <4783A3C0131C139C5C07A469AC69C0A9> <4783A3C0131C139C5C07A469AC69C0A9> ]
+>>
+startxref
+12341
+%%EOF
